@@ -1,1 +1,0 @@
-Olá esse meu projeto sao exercicios de vetores em linguagem C.
